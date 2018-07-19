@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		452460592100451A0001F279 /* KCOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 452460582100451A0001F279 /* KCOperation.m */; };
 		45D966CE210044890092B254 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D966CD210044890092B254 /* AppDelegate.m */; };
 		45D966D12100448A0092B254 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D966D02100448A0092B254 /* ViewController.m */; };
 		45D966D42100448A0092B254 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45D966D22100448A0092B254 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		452460572100451A0001F279 /* KCOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KCOperation.h; sourceTree = "<group>"; };
+		452460582100451A0001F279 /* KCOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KCOperation.m; sourceTree = "<group>"; };
 		45D966C9210044890092B254 /* KCOperation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KCOperation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45D966CC210044890092B254 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		45D966CD210044890092B254 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				45D966D72100448C0092B254 /* LaunchScreen.storyboard */,
 				45D966DA2100448C0092B254 /* Info.plist */,
 				45D966DB2100448C0092B254 /* main.m */,
+				452460572100451A0001F279 /* KCOperation.h */,
+				452460582100451A0001F279 /* KCOperation.m */,
 			);
 			path = KCOperation;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 				45D966D12100448A0092B254 /* ViewController.m in Sources */,
 				45D966DC2100448C0092B254 /* main.m in Sources */,
 				45D966CE210044890092B254 /* AppDelegate.m in Sources */,
+				452460592100451A0001F279 /* KCOperation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
